@@ -1,0 +1,35 @@
+.help-block {
+	margin-bottom: 0px;
+}
+
+.ybutton {
+    width: 28px;
+    height:28px;
+}
+
+.merhaba {
+	padding:0px 20px 20px 50px;
+	
+}
+
+.merhaba h1{
+	
+	font-size: 2.6em;
+}
+
+.merhaba2 {
+	padding:15px 15px 0px 0px;
+
+}
+.merhaba2 h3 {
+	color: #075853;
+}
+.merhaba2 h4 {
+	font-size: 1.2em;
+	line-height: 1.2em;
+	color: #075853;
+}
+
+.card {
+  margin-top: 50px;
+}
